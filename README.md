@@ -1,2 +1,2 @@
-# Trab_POOII_ListadeTarefas
-Trabalho de POO II - Lista de Tarefas
+# Trabalho_POOII_Lista_de_Tarefas
+Trabalho de POOII Lista de Tarefas
